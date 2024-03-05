@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Costica, 27 years old and i'm from Romania. I'm developing apps using Laravel as my main framework with InertiaJS / Vue 3 as my front-end.
+Hi there 👋. My name is Costica, 27 years old and i'm from Romania. I'm developing apps using Laravel as my main framework with InertiaJS / Vue 3 as my front-end.
 
 I've done in the past projects with simple PHP aswell
 
